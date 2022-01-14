@@ -6,7 +6,14 @@ The App is very much a basic app and is rreally to help develop my coding skills
 
 Download Instructions
 
-There is a zip file, and exe file and soon I will add a folder to download. 
+Choose one of the following:
+
+Zip file - https://github.com/varunbg123/pdftoword/raw/master/setupfinal.zip
+
+EXE file - https://github.com/varunbg123/pdftoword/raw/master/setupfinal.exe
+
+and soon I will add a folder to download. 
+
 Download whichever one you feel you need. The folder version will not require any admin to run
 
 ![thelogo](https://user-images.githubusercontent.com/97689448/149547207-13f199fa-8293-41ec-bd5c-771a55cef84d.png)
