@@ -1,20 +1,22 @@
 # PDF To Word
 
-I have created an app that will convert PDF'S to Word.
+I have created an app that will convert PDF's to Word.
 
-The App is a very basic one and is really to help develop my coding skills.
+The App is a very basic and is really to help develop my coding skills.
 
 ### Download Instructions
 
 Choose one of the following:
 
-Zip file - https://github.com/varunbg123/pdftoword/raw/master/setupfinal.zip
+When downloading the source code there is 2 options to install
+
+The setupfile will keep the application on the device and then will be installed on the device
 
 EXE file - https://github.com/varunbg123/pdftoword/raw/master/setupfinal.exe
 
-And soon I will add a folder to download.
+The second option is to use the main folder. In the main folder locate the main.exe. Run this to open Application.
 
-Download whichever one you feel you need. The folder version will not require any admin to run
+Download whichever one you feel you need. The folder version will not require any admin to run.
 
 ![thelogo](https://user-images.githubusercontent.com/97689448/149547207-13f199fa-8293-41ec-bd5c-771a55cef84d.png)
 
